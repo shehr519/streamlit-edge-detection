@@ -1,0 +1,4 @@
+# Ignore virtual environment
+streamlit_env/
+__pycache__/
+*.pyc
